@@ -1,0 +1,128 @@
+{
+    "msg": "success",
+    "code": 0,
+    "live": [
+        {
+            "channelid": "3453",
+            "channelname": "GLOBO SP",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/GLOBO_SP.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3450",
+            "channelname": "GLOBO RJ",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/GLOBO_RJ.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3093",
+            "channelname": "ESPN",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/ESPN.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3355",
+            "channelname": "PFC 1",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/PFC1.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3096",
+            "channelname": "SPORTV",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/SPORTV.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3156",
+            "channelname": "RECORD",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/RECORD.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3390",
+            "channelname": "ANIMAL PLANET",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/ANIMAL_PLANET.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3470",
+            "channelname": "HISTORY",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/HISTORY.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3162",
+            "channelname": "SBT",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/SBT.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3348",
+            "channelname": "UNIVERSAL",
+            "channelicon": "http://vodpic.pdpapdsca.cyou/pic/UNIVERSAL.png",
+            "msg": "GFC"
+        }
+    ],
+    "vod": [
+        {
+            "sid": "108779",
+            "showname": "Eu, Eddie Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763163487167.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607392557.jpg"
+        },
+        {
+            "sid": "108782",
+            "showname": "Caso Eloá: Refém ao vivo Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763164446680.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607408037.jpg"
+        },
+        {
+            "sid": "108810",
+            "showname": "Uma Batalha Após a Outra Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763180586888.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607423210.jpg"
+        },
+        {
+            "sid": "108866",
+            "showname": "Nos Seus Sonhos Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763370367499.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607441990.jpg"
+        },
+        {
+            "sid": "108928",
+            "showname": "Um Natal Bem Jonas Brothers Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763371662959.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607469845.jpg"
+        },
+        {
+            "sid": "109149",
+            "showname": "Invejosa 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763604542838.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763605969090.jpg"
+        },
+        {
+            "sid": "108991",
+            "showname": "Landman 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763373615272.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606023249.jpg"
+        },
+        {
+            "sid": "108971",
+            "showname": "O Manipulado 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763372913883.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606123114.jpg"
+        },
+        {
+            "sid": "108970",
+            "showname": "Beijo Explosivo 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763372870451.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606307058.jpg"
+        },
+        {
+            "sid": "108937",
+            "showname": "Aeroporto: Área Restrita 7ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763371906755.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606352260.jpg"
+        }
+    ]
+}
