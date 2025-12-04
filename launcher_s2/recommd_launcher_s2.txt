@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "108779",
-            "showname": "Eu, Eddie Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763163487167.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607392557.jpg"
+            "sid": "109844",
+            "showname": "O Troll da Montanha 2 Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764755511791.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764813922116.jpg"
         },
         {
-            "sid": "108782",
-            "showname": "Caso Eloá: Refém ao vivo Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763164446680.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607408037.jpg"
+            "sid": "109506",
+            "showname": "A Meia-Irmã Feia Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764122222985.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764814017957.jpg"
         },
         {
-            "sid": "108810",
-            "showname": "Uma Batalha Após a Outra Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763180586888.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607423210.jpg"
+            "sid": "109850",
+            "showname": "Drácula: Uma História de Amor Eterno Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764755670921.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764814034844.jpg"
         },
         {
-            "sid": "108866",
-            "showname": "Nos Seus Sonhos Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763370367499.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607441990.jpg"
+            "sid": "109916",
+            "showname": "O SEGREDO DO PAPAI NOEL Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764777422712.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764814053888.jpg"
         },
         {
-            "sid": "108928",
-            "showname": "Um Natal Bem Jonas Brothers Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763371662959.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763607469845.jpg"
+            "sid": "109710",
+            "showname": "Prep & Landing: The Snowball Protocol Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764394802526.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764814075434.jpg"
         },
         {
-            "sid": "109149",
-            "showname": "Invejosa 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763604542838.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763605969090.jpg"
+            "sid": "109621",
+            "showname": "Stranger Things 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764260042460.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764812144286.jpg"
         },
         {
-            "sid": "108991",
-            "showname": "Landman 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763373615272.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606023249.jpg"
+            "sid": "109530",
+            "showname": "O Dono de Kingstown 4ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764134402976.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764812164591.jpg"
         },
         {
-            "sid": "108971",
-            "showname": "O Manipulado 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763372913883.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606123114.jpg"
+            "sid": "109805",
+            "showname": "Power Book IV: Force 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764754417691.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764812184860.jpg"
         },
         {
-            "sid": "108970",
-            "showname": "Beijo Explosivo 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763372870451.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606307058.jpg"
+            "sid": "109733",
+            "showname": "Doce Engano 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764410881918.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764812212452.jpg"
         },
         {
-            "sid": "108937",
-            "showname": "Aeroporto: Área Restrita 7ª Temporada Dublado",
-            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1763371906755.jpg",
-            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1763606352260.jpg"
+            "sid": "109913",
+            "showname": "Formula E: Driver 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pdpapdsca.cyou/pic/1764761102210.jpg",
+            "logo_b": "http://vodpic.pdpapdsca.cyou/pic/1764812230427.jpg"
         }
     ]
 }
