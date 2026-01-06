@@ -5,124 +5,124 @@
         {
             "channelid": "3453",
             "channelname": "GLOBO SP",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/GLOBO_SP.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picGLOBO_SP.png",
             "msg": "GFC"
         },
         {
             "channelid": "3450",
             "channelname": "GLOBO RJ",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/GLOBO_RJ.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picGLOBO_RJ.png",
             "msg": "GFC"
         },
         {
             "channelid": "3093",
             "channelname": "ESPN",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/ESPN.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picESPN.png",
             "msg": "GFC"
         },
         {
             "channelid": "3355",
             "channelname": "PFC 1",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/PFC1.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picPFC1.png",
             "msg": "GFC"
         },
         {
             "channelid": "3096",
             "channelname": "SPORTV",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/SPORTV.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picSPORTV.png",
             "msg": "GFC"
         },
         {
             "channelid": "3156",
             "channelname": "RECORD",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/RECORD.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picRECORD.png",
             "msg": "GFC"
         },
         {
             "channelid": "3390",
             "channelname": "ANIMAL PLANET",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/ANIMAL_PLANET.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picANIMAL_PLANET.png",
             "msg": "GFC"
         },
         {
             "channelid": "3470",
             "channelname": "HISTORY",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/HISTORY.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picHISTORY.png",
             "msg": "GFC"
         },
         {
             "channelid": "3162",
             "channelname": "SBT",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/SBT.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picSBT.png",
             "msg": "GFC"
         },
         {
             "channelid": "3348",
             "channelname": "UNIVERSAL",
-            "channelicon": "http://vodpic.trtadtsadca.cyou//pic/UNIVERSAL.png",
+            "channelicon": "http://vodpic.trtadtsadca.cyou/picUNIVERSAL.png",
             "msg": "GFC"
         }
     ],
     "vod": [
         {
-            "sid": "110591",
-            "showname": "Truque de Mestre: O 3° Ato Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766199101253.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766384394267.jpg"
+            "sid": "111233",
+            "showname": "Wicked: Parte II Dublado",
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic/1767157022256.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1767667917253.jpg"
         },
         {
-            "sid": "110545",
-            "showname": "Sisu 2 Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766197347041.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766384504219.jpg"
+            "sid": "111355",
+            "showname": "A Corrida dos 100 Metros Dublado",
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic/1767520562382.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1767668328899.jpg"
         },
         {
-            "sid": "110710",
-            "showname": "A grande inundação Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766251142644.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766384940917.jpg"
+            "sid": "111220",
+            "showname": "Bugonia Dublado",
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic/1767105482341.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1767668471419.jpg"
         },
         {
-            "sid": "110660",
-            "showname": "10Dance Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766223057943.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385241784.jpg"
+            "sid": "111070",
+            "showname": "O Último Azul Dublado",
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic/1766922962066.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1767668520130.jpg"
         },
         {
-            "sid": "110707",
-            "showname": "La hora de los valientes Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766249822272.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385382518.jpg"
+            "sid": "110873",
+            "showname": "O Homem que Desafiou os Soviéticos Dublado",
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic/1766500693556.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1767668614826.jpg"
         },
         {
             "sid": "110613",
             "showname": "Fallout 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766199695100.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385737170.jpg"
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic1766199695100.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1766385737170.jpg"
         },
         {
             "sid": "110541",
             "showname": "Guerra Culinária 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766197235575.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385719174.jpg"
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic1766197235575.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1766385719174.jpg"
         },
         {
             "sid": "110623",
             "showname": "O Rastreador 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766199884361.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385818564.jpg"
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic1766199884361.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1766385818564.jpg"
         },
         {
             "sid": "110659",
             "showname": "Dominando Manhattan 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766222928586.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766385946979.jpg"
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic1766222928586.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1766385946979.jpg"
         },
         {
             "sid": "110585",
             "showname": "Mentes Extraordinárias 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.trtadtsadca.cyou//pic/1766198549942.jpg",
-            "logo_b": "http://vodpic.trtadtsadca.cyou//pic/1766386059531.jpg"
+            "logo_s": "http://vodpic.trtadtsadca.cyou/pic1766198549942.jpg",
+            "logo_b": "http://vodpic.trtadtsadca.cyou/pic1766386059531.jpg"
         }
     ]
 }
