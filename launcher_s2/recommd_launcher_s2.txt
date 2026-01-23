@@ -65,28 +65,28 @@
     ],
     "vod": [
         {
-            "sid": "111233",
-            "showname": "Wicked: Parte II Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic//1767157022256.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1767667917253.jpg"
+            "sid": "111936",
+            "showname": "Dinheiro Suspeito Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768791481864.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153894980.jpg"
         },
         {
-            "sid": "111355",
-            "showname": "A Corrida dos 100 Metros Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic//1767520562382.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1767668328899.jpg"
+            "sid": "112039",
+            "showname": "Cash for Gold Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768955744313.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153962459.jpg"
         },
         {
-            "sid": "111220",
-            "showname": "Bugonia Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic//1767105482341.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1767668471419.jpg"
+            "sid": "111988",
+            "showname": "Wizkid: Long Live Lagos Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768896159578.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769154024422.jpg"
         },
         {
-            "sid": "111070",
-            "showname": "O Último Azul Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic//1766922962066.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1767668520130.jpg"
+            "sid": "111565",
+            "showname": "Tron: Ares Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1767948574559.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769154160936.jpg"
         },
         {
             "sid": "110873",
@@ -95,34 +95,34 @@
             "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1767668614826.jpg"
         },
         {
-            "sid": "110613",
-            "showname": "Fallout 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1766199695100.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1766385737170.jpg"
+            "sid": "112116",
+            "showname": "WWE: Surreal 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769045530095.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153050704.jpg"
         },
         {
-            "sid": "110541",
-            "showname": "Guerra Culinária 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1766197235575.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1766385719174.jpg"
+            "sid": "111989",
+            "showname": "O Cavaleiro dos Sete Reinos 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768896191041.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153153727.jpg"
         },
         {
-            "sid": "110623",
-            "showname": "O Rastreador 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1766199884361.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1766385818564.jpg"
+            "sid": "111928",
+            "showname": "O Amor Pode Ser Traduzido? 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768650721965.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153199066.jpg"
         },
         {
-            "sid": "110659",
-            "showname": "Dominando Manhattan 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1766222928586.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1766385946979.jpg"
+            "sid": "111869",
+            "showname": "Febre de Primavera 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768645223947.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153247366.jpg"
         },
         {
-            "sid": "110585",
-            "showname": "Mentes Extraordinárias 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1766198549942.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1766386059531.jpg"
+            "sid": "111738",
+            "showname": "O Gerente da Noite 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1768285928534.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1769153354263.jpg"
         }
     ]
 }
