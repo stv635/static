@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "112604",
-            "showname": "Dupla Perigosa Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769741941439.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296583939.jpg"
+            "sid": "113462",
+            "showname": "Extermínio: O Templo dos Ossos Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771389782215.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772369848639.jpg"
         },
         {
-            "sid": "112681",
-            "showname": "Uma Carta à Minha Juventude Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769824802023.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296619374.jpg"
+            "sid": "113902",
+            "showname": "O Refúgio Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1772051948249.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370095799.jpg"
         },
         {
-            "sid": "112874",
-            "showname": "Skyscraper Live Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1770124801404.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296658795.jpg"
+            "sid": "113608",
+            "showname": "Corta-fogo Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771604222334.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370346984.jpg"
         },
         {
-            "sid": "112563",
-            "showname": "Nossa Vizinhança Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769564101677.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296694446.jpg"
+            "sid": "113583",
+            "showname": "A Conexão Sueca Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771583942538.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370378418.jpg"
         },
         {
-            "sid": "112269",
-            "showname": "Kaguya: A Princesa Espacial Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769335921450.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296766236.jpg"
+            "sid": "113464",
+            "showname": "Justiça Artificial Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771392782427.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370419933.jpg"
         },
         {
-            "sid": "112659",
-            "showname": "Magnum 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769776142038.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770296872423.jpg"
+            "sid": "114054",
+            "showname": "Monarch: Legado de Monstros 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1772295669468.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370613204.jpg"
         },
         {
-            "sid": "112194",
-            "showname": "Queer Eye: Mais que um Makeover 10ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769311142275.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770297003250.jpg"
+            "sid": "113932",
+            "showname": "The Rookie 8ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1772099527920.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370847541.jpg"
         },
         {
-            "sid": "112904",
-            "showname": "Dança no Gelo: Rumo ao Ouro 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1770181922293.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770297056708.jpg"
+            "sid": "113991",
+            "showname": "Como Você Pôde!? 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1772201108255.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370879702.jpg"
         },
         {
-            "sid": "112650",
-            "showname": "Bridgerton 4ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769770382126.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770297098527.jpg"
+            "sid": "113814",
+            "showname": "Paradise 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771990807676.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772370953724.jpg"
         },
         {
-            "sid": "112614",
-            "showname": "Falando a Real 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1769746861303.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1770297153907.jpg"
+            "sid": "113645",
+            "showname": "Pesadelo na Cozinha 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1771695482536.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1772371055506.jpg"
         }
     ]
 }
