@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "114377",
-            "showname": "Máquina de Guerra Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773035401466.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773648586128.jpg"
+            "sid": "115534",
+            "showname": "Mardaani 3 Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753677457.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122490747.jpg"
         },
         {
-            "sid": "114778",
-            "showname": "Zootopia 2 Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773483385745.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773648690477.jpg"
+            "sid": "115152",
+            "showname": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774285021462.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122626173.jpg"
         },
         {
-            "sid": "114349",
-            "showname": "Banlieusards 3 Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1772716447760.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773648913108.jpg"
+            "sid": "115547",
+            "showname": "BTS: The Return Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774754077113.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122689640.jpg"
         },
         {
-            "sid": "114713",
-            "showname": "Louis Theroux: Por Dentro da Machosfera Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773301141925.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773648936033.jpg"
+            "sid": "115540",
+            "showname": "Mike & Nick & Nick & Alice Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753941646.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122734989.jpg"
         },
         {
-            "sid": "114751",
-            "showname": "Made in Korea Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773365946054.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773648992415.jpg"
+            "sid": "115535",
+            "showname": "53 Sundays Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753696247.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122759504.jpg"
         },
         {
-            "sid": "114836",
-            "showname": "Virgin River 7ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773598446795.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773649188941.jpg"
+            "sid": "115520",
+            "showname": "For All Mankind 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774725421756.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122961179.jpg"
         },
         {
-            "sid": "114576",
-            "showname": "One Piece: A Série 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773205621969.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773649301092.jpg"
+            "sid": "115475",
+            "showname": "Máxima 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774692328277.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124319781.jpg"
         },
         {
-            "sid": "114746",
-            "showname": "Outlander 8ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773331806731.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773649428052.jpg"
+            "sid": "115449",
+            "showname": "Os Casos de Harry Hole 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774662421630.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124447015.jpg"
         },
         {
-            "sid": "114689",
-            "showname": "Espíritos na Escola 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773286322064.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773649447790.jpg"
+            "sid": "115406",
+            "showname": "Heartbreak High: Onde Tudo Acontece 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774618981672.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124470559.jpg"
         },
         {
-            "sid": "114680",
-            "showname": "Scarpetta: Médica Legista 6ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1773277802154.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1773649519513.jpg"
+            "sid": "115307",
+            "showname": "Demolidor: Renascido 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774436461535.jpg",
+            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124523204.jpg"
         }
     ]
 }
