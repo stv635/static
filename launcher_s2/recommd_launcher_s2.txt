@@ -5,61 +5,61 @@
         {
             "channelid": "3453",
             "channelname": "GLOBO SP",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/GLOBO_SP.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/GLOBO_SP.png",
             "msg": "GFC"
         },
         {
             "channelid": "3450",
             "channelname": "GLOBO RJ",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/GLOBO_RJ.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/GLOBO_RJ.png",
             "msg": "GFC"
         },
         {
             "channelid": "3093",
             "channelname": "ESPN",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/ESPN.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/ESPN.png",
             "msg": "GFC"
         },
         {
             "channelid": "3355",
             "channelname": "PFC 1",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/PFC1.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/PFC1.png",
             "msg": "GFC"
         },
         {
             "channelid": "3096",
             "channelname": "SPORTV",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/SPORTV.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/SPORTV.png",
             "msg": "GFC"
         },
         {
             "channelid": "3156",
             "channelname": "RECORD",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/RECORD.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/RECORD.png",
             "msg": "GFC"
         },
         {
             "channelid": "3390",
             "channelname": "ANIMAL PLANET",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/ANIMAL_PLANET.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/ANIMAL_PLANET.png",
             "msg": "GFC"
         },
         {
             "channelid": "3470",
             "channelname": "HISTORY",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/HISTORY.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/HISTORY.png",
             "msg": "GFC"
         },
         {
             "channelid": "3162",
             "channelname": "SBT",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/SBT.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/SBT.png",
             "msg": "GFC"
         },
         {
             "channelid": "3348",
             "channelname": "UNIVERSAL",
-            "channelicon": "http://vodpic.utyyfyashda.cyou/pic/UNIVERSAL.png",
+            "channelicon": "http://vodpic.pmgjidacada.cyou/pic/UNIVERSAL.png",
             "msg": "GFC"
         }
     ],
@@ -67,62 +67,62 @@
         {
             "sid": "115534",
             "showname": "Mardaani 3 Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753677457.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122490747.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753677457.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122490747.jpg"
         },
         {
             "sid": "115152",
             "showname": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774285021462.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122626173.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774285021462.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122626173.jpg"
         },
         {
             "sid": "115547",
             "showname": "BTS: The Return Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774754077113.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122689640.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774754077113.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122689640.jpg"
         },
         {
             "sid": "115540",
             "showname": "Mike & Nick & Nick & Alice Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753941646.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122734989.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753941646.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122734989.jpg"
         },
         {
             "sid": "115535",
             "showname": "53 Sundays Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774753696247.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122759504.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753696247.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122759504.jpg"
         },
         {
             "sid": "115520",
             "showname": "For All Mankind 5ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774725421756.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775122961179.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774725421756.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122961179.jpg"
         },
         {
             "sid": "115475",
             "showname": "Máxima 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774692328277.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124319781.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774692328277.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124319781.jpg"
         },
         {
             "sid": "115449",
             "showname": "Os Casos de Harry Hole 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774662421630.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124447015.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774662421630.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124447015.jpg"
         },
         {
             "sid": "115406",
             "showname": "Heartbreak High: Onde Tudo Acontece 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774618981672.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124470559.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774618981672.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124470559.jpg"
         },
         {
             "sid": "115307",
             "showname": "Demolidor: Renascido 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.utyyfyashda.cyou/pic/1774436461535.jpg",
-            "logo_b": "http://vodpic.utyyfyashda.cyou/pic/1775124523204.jpg"
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774436461535.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124523204.jpg"
         }
     ]
 }
