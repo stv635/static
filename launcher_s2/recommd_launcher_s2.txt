@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "115534",
-            "showname": "Mardaani 3 Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753677457.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122490747.jpg"
+            "sid": "116779",
+            "showname": "180 Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776489422122.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761543402.jpg"
         },
         {
-            "sid": "115152",
-            "showname": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774285021462.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122626173.jpg"
+            "sid": "116711",
+            "showname": "Tyson Fury vs. Arslanbek Makhmudov Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776373681670.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761609873.jpg"
         },
         {
-            "sid": "115547",
-            "showname": "BTS: The Return Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774754077113.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122689640.jpg"
+            "sid": "116738",
+            "showname": "Rise of the Conqueror Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776403261444.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761704126.jpg"
         },
         {
-            "sid": "115540",
-            "showname": "Mike & Nick & Nick & Alice Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753941646.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122734989.jpg"
+            "sid": "116776",
+            "showname": "A Vizinha Bela Adormecida Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776488641605.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761745168.jpg"
         },
         {
-            "sid": "115535",
-            "showname": "53 Sundays Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774753696247.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122759504.jpg"
+            "sid": "116556",
+            "showname": "Fogo Contra Fogo Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776224582223.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761804564.jpg"
         },
         {
-            "sid": "115520",
-            "showname": "For All Mankind 5ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774725421756.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775122961179.jpg"
+            "sid": "116599",
+            "showname": "Euphoria 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776240992677.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761947601.jpg"
         },
         {
-            "sid": "115475",
-            "showname": "Máxima 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774692328277.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124319781.jpg"
+            "sid": "116311",
+            "showname": "The Boys 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1775816581585.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762033536.jpg"
         },
         {
-            "sid": "115449",
-            "showname": "Os Casos de Harry Hole 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774662421630.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124447015.jpg"
+            "sid": "116497",
+            "showname": "Hacks 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1775991901491.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762092180.jpg"
         },
         {
-            "sid": "115406",
-            "showname": "Heartbreak High: Onde Tudo Acontece 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774618981672.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124470559.jpg"
+            "sid": "116546",
+            "showname": "Os Outros 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776138421526.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762118613.jpg"
         },
         {
-            "sid": "115307",
-            "showname": "Demolidor: Renascido 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1774436461535.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1775124523204.jpg"
+            "sid": "116677",
+            "showname": "Treta 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776353161859.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762211713.jpg"
         }
     ]
 }
