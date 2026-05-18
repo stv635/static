@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "116779",
-            "showname": "180 Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776489422122.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761543402.jpg"
+            "sid": "118025",
+            "showname": "Remarkably Bright Creatures Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778256781344.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779091456016.jpg"
         },
         {
-            "sid": "116711",
-            "showname": "Tyson Fury vs. Arslanbek Makhmudov Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776373681670.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761609873.jpg"
+            "sid": "117704",
+            "showname": "Como Mágica Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1777686181718.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779091528613.jpg"
         },
         {
-            "sid": "116738",
-            "showname": "Rise of the Conqueror Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776403261444.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761704126.jpg"
+            "sid": "118388",
+            "showname": "The Crash Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778912761359.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779091624684.jpg"
         },
         {
-            "sid": "116776",
-            "showname": "A Vizinha Bela Adormecida Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776488641605.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761745168.jpg"
+            "sid": "118086",
+            "showname": "Devoradores de Estrelas Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778605441634.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779091687401.jpg"
         },
         {
-            "sid": "116556",
-            "showname": "Fogo Contra Fogo Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776224582223.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761804564.jpg"
+            "sid": "118043",
+            "showname": "O Rastro do Ouro Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778292541680.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779091985867.jpg"
         },
         {
-            "sid": "116599",
-            "showname": "Euphoria 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776240992677.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776761947601.jpg"
+            "sid": "118421",
+            "showname": "Dutton Ranch 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1779021782265.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779092251051.jpg"
         },
         {
-            "sid": "116311",
-            "showname": "The Boys 5ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1775816581585.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762033536.jpg"
+            "sid": "118380",
+            "showname": "Berlim e a Dama com Arminho 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778909461664.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779092331331.jpg"
         },
         {
-            "sid": "116497",
-            "showname": "Hacks 5ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1775991901491.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762092180.jpg"
+            "sid": "118335",
+            "showname": "O Segredo de Um Milhão de Dólares 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778817901705.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779092384241.jpg"
         },
         {
-            "sid": "116546",
-            "showname": "Os Outros 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776138421526.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762118613.jpg"
+            "sid": "118290",
+            "showname": "Off Campus: Amores Improváveis 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778727961385.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779092500820.jpg"
         },
         {
-            "sid": "116677",
-            "showname": "Treta 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1776353161859.jpg",
-            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1776762211713.jpg"
+            "sid": "118064",
+            "showname": "Casa do Patrão 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmgjidacada.cyou/pic/1778557981926.jpg",
+            "logo_b": "http://vodpic.pmgjidacada.cyou/pic/1779092582384.jpg"
         }
     ]
 }
