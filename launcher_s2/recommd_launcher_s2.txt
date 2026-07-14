@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "119760",
-            "showname": "Michael Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1780969021785.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341983638.jpg"
+            "sid": "121071",
+            "showname": "Enola Holmes 3 Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1782971822084.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784010095233.jpg"
         },
         {
-            "sid": "119766",
-            "showname": "Dhurandhar: A Vingança Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1780975741850.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341272858.jpg"
+            "sid": "120511",
+            "showname": "As Ovelhas Detetives Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1782712081812.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784010418403.jpg"
         },
         {
-            "sid": "119779",
-            "showname": "Iron Maiden: Burning Ambition Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1780980781320.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341331385.jpg"
+            "sid": "120869",
+            "showname": "O Velho Fusca Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1782852481812.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784010488626.jpg"
         },
         {
-            "sid": "119975",
-            "showname": "Um Pai em Apuros Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1781334924340.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341371580.jpg"
+            "sid": "120735",
+            "showname": "Chris & Martina: The Final Set Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1782811322236.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784010519077.jpg"
         },
         {
-            "sid": "119954",
-            "showname": "Maternal Instinct Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1781322962058.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341410149.jpg"
+            "sid": "121581",
+            "showname": "O Gênio do Crime Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783748161385.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011012671.jpg"
         },
         {
-            "sid": "119632",
-            "showname": "Aprendendo a Lição 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1780744921929.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341877975.jpg"
+            "sid": "121252",
+            "showname": "Silo 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783304942107.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011228494.jpg"
         },
         {
-            "sid": "119548",
-            "showname": "Sessão de Terapia 6ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1780654406357.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341629547.jpg"
+            "sid": "121464",
+            "showname": "Trying 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783519741421.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011263667.jpg"
         },
         {
-            "sid": "119921",
-            "showname": "No Limite da Lei 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1781237401348.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341713960.jpg"
+            "sid": "121466",
+            "showname": "American Detective with Lt. Joe Kenda 6ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783521901680.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011335462.jpg"
         },
         {
-            "sid": "119838",
-            "showname": "Rivals 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1781085961371.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341779823.jpg"
+            "sid": "120920",
+            "showname": "A Canção do Samurai 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1782878882202.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011428776.jpg"
         },
         {
-            "sid": "119792",
-            "showname": "Norges vei tilbake 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1781060701745.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1781341816178.jpg"
+            "sid": "121168",
+            "showname": "Vapor Humano 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783057501803.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1784011471143.jpg"
         }
     ]
 }
