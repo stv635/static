@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "122172",
-            "showname": "Dia D Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1784776253484.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787904525108.jpg"
+            "sid": "124835",
+            "showname": "Acampamento Miasma: Adolescência, Sexo e Morte Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789824541740.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149382076.jpg"
         },
         {
-            "sid": "123215",
-            "showname": "Minions & Monstros Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1787031842250.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787904599308.jpg"
+            "sid": "124608",
+            "showname": "O Fim da Rua Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789524301655.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149616822.jpg"
         },
         {
-            "sid": "123057",
-            "showname": "Quinze Dias Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1786749722119.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787904844120.jpg"
+            "sid": "124956",
+            "showname": "One Last Shot Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1790068202162.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149709566.jpg"
         },
         {
-            "sid": "122986",
-            "showname": "George Washington Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1786471621809.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787904887015.jpg"
+            "sid": "124964",
+            "showname": "Batman: Knightfall - Part 1: Knightfall Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1790085841667.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149767677.jpg"
         },
         {
-            "sid": "123217",
-            "showname": "Mestres do Universo Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1787032141961.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787904937359.jpg"
+            "sid": "124713",
+            "showname": "Herança de Narcisa Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789641301749.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149861926.jpg"
         },
         {
-            "sid": "122830",
-            "showname": "Cem Anos de Solidão 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1785955622260.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787905148311.jpg"
+            "sid": "124833",
+            "showname": "Escândalo e Intriga 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789810741285.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150148361.jpg"
         },
         {
-            "sid": "123205",
-            "showname": "Lanternas 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1787022061862.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787905187779.jpg"
+            "sid": "124820",
+            "showname": "Terra da Máfia 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789806721693.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150245251.jpg"
         },
         {
-            "sid": "121252",
-            "showname": "Silo 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1783304942107.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787905277987.jpg"
+            "sid": "124883",
+            "showname": "Outlander: Blood of My Blood 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789886161736.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150374596.jpg"
         },
         {
-            "sid": "121768",
-            "showname": "Lucky 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1784165341967.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787905309180.jpg"
+            "sid": "124814",
+            "showname": "Beleza Plástica 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789731562568.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150523037.jpg"
         },
         {
-            "sid": "123558",
-            "showname": "Leão: A Alcateia Marsh de Masai Mara 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1787720281547.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1787905393259.jpg"
+            "sid": "124718",
+            "showname": "Slow Horses 6ª Temporada Dublado",
+            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789644661876.jpg",
+            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150583713.jpg"
         }
     ]
 }
