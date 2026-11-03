@@ -71,58 +71,58 @@
             "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792983922427.jpg"
         },
         {
-            "sid": "126028",
-            "showname": "Código: Vingança Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792942922044.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984119155.jpg"
+            "sid": "126304",
+            "showname": "Resident Evil Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793659381329.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667841382.jpg"
         },
         {
-            "sid": "125374",
-            "showname": "Toy Story 5 Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463959709.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224558988.jpg"
+            "sid": "126100",
+            "showname": "A Ilha Esquecida Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793159004376.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667906798.jpg"
         },
         {
-            "sid": "125959",
-            "showname": "Noite Brutal Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792815241432.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984178637.jpg"
+            "sid": "126097",
+            "showname": "Tony Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793153221851.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667962431.jpg"
         },
         {
-            "sid": "125944",
-            "showname": "Contra o Furacão Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792808701998.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984201145.jpg"
+            "sid": "126303",
+            "showname": "Minha Melhor Amiga Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793628301514.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667993785.jpg"
         },
         {
-            "sid": "126022",
-            "showname": "Lupin 4ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792922281737.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984455436.jpg"
+            "sid": "126286",
+            "showname": "Noturno 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793522701615.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668173081.jpg"
         },
         {
-            "sid": "125823",
-            "showname": "Uma Loja Para Assassinos 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792414562251.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984620233.jpg"
+            "sid": "126288",
+            "showname": "Dom de Iludir 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793526661811.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668273432.jpg"
         },
         {
-            "sid": "125847",
-            "showname": "Small Prophets 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792484462354.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984704475.jpg"
+            "sid": "126287",
+            "showname": "Dexter: Ressurreição 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793525102182.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668371988.jpg"
         },
         {
-            "sid": "125908",
-            "showname": "A Lista Terminal 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792636861589.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984731841.jpg"
+            "sid": "126063",
+            "showname": "Georgie e Mandy: Seu Primeiro Casamento 3ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792962002237.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668457924.jpg"
         },
         {
-            "sid": "126049",
-            "showname": "Crystal Lake 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792954322307.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984784816.jpg"
+            "sid": "126103",
+            "showname": "Aquele Sobre Matthew Perry 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793160121822.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668510103.jpg"
         }
     ]
 }
