@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "125403",
-            "showname": "Homem-Aranha: Um Novo Dia Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465390462.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792983922427.jpg"
+            "sid": "126424",
+            "showname": "Coração Selvagem Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793958602014.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273453196.jpg"
         },
         {
-            "sid": "126304",
-            "showname": "Resident Evil Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793659381329.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667841382.jpg"
+            "sid": "126476",
+            "showname": "Finja-se de Morto Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794227701488.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273531992.jpg"
         },
         {
-            "sid": "126100",
-            "showname": "A Ilha Esquecida Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793159004376.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667906798.jpg"
+            "sid": "126459",
+            "showname": "UM ANO DE VIDA, COMPRE UM HOMEM Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794136442301.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273617808.jpg"
         },
         {
-            "sid": "126097",
-            "showname": "Tony Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793153221851.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667962431.jpg"
+            "sid": "126462",
+            "showname": "Alta gama: El caso relojes Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794138001732.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273645465.jpg"
         },
         {
-            "sid": "126303",
-            "showname": "Minha Melhor Amiga Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793628301514.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793667993785.jpg"
+            "sid": "126439",
+            "showname": "Fuga Mortal Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793963881638.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273687187.jpg"
         },
         {
-            "sid": "126286",
-            "showname": "Noturno 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793522701615.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668173081.jpg"
+            "sid": "126436",
+            "showname": "Lei & Ordem: Unidade de Vítimas Especiais 28ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962561395.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273880095.jpg"
         },
         {
-            "sid": "126288",
-            "showname": "Dom de Iludir 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793526661811.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668273432.jpg"
+            "sid": "126437",
+            "showname": "Lei & Ordem 26ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962862191.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273933824.jpg"
         },
         {
-            "sid": "126287",
-            "showname": "Dexter: Ressurreição 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793525102182.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668371988.jpg"
+            "sid": "126441",
+            "showname": "Ao Norte do Norte 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793964062343.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274221572.jpg"
         },
         {
-            "sid": "126063",
-            "showname": "Georgie e Mandy: Seu Primeiro Casamento 3ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792962002237.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668457924.jpg"
+            "sid": "126475",
+            "showname": "Tip Toe 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794227521413.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274251476.jpg"
         },
         {
-            "sid": "126103",
-            "showname": "Aquele Sobre Matthew Perry 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793160121822.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1793668510103.jpg"
+            "sid": "126438",
+            "showname": "Chicago P.D.: Distrito 21 14ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962890761.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274289284.jpg"
         }
     ]
 }
