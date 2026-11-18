@@ -65,64 +65,64 @@
     ],
     "vod": [
         {
-            "sid": "126424",
-            "showname": "Coração Selvagem Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793958602014.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273453196.jpg"
+            "sid": "126526",
+            "showname": "Amor Possível Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794562382006.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794906796232.jpg"
         },
         {
-            "sid": "126476",
-            "showname": "Finja-se de Morto Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794227701488.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273531992.jpg"
+            "sid": "126558",
+            "showname": "A Arte de Ser Heumann Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794574742029.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794906860576.jpg"
         },
         {
-            "sid": "126459",
-            "showname": "UM ANO DE VIDA, COMPRE UM HOMEM Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794136442301.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273617808.jpg"
+            "sid": "126542",
+            "showname": "Santo António - O Casamenteiro de Lisboa",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794568202096.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794906957116.jpg"
         },
         {
-            "sid": "126462",
-            "showname": "Alta gama: El caso relojes Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794138001732.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273645465.jpg"
+            "sid": "126643",
+            "showname": "No Limite da Justiça Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794741661532.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794908625815.jpg"
         },
         {
-            "sid": "126439",
-            "showname": "Fuga Mortal Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793963881638.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273687187.jpg"
+            "sid": "126642",
+            "showname": "El vestido Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794741482054.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794913469866.jpg"
         },
         {
-            "sid": "126436",
-            "showname": "Lei & Ordem: Unidade de Vítimas Especiais 28ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962561395.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273880095.jpg"
+            "sid": "126529",
+            "showname": "Arcanjo Renegado 5ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794563222310.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794907409229.jpg"
         },
         {
-            "sid": "126437",
-            "showname": "Lei & Ordem 26ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962862191.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794273933824.jpg"
+            "sid": "126560",
+            "showname": "A Idade Dourada 4ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794575521461.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794907442863.jpg"
         },
         {
-            "sid": "126441",
-            "showname": "Ao Norte do Norte 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793964062343.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274221572.jpg"
+            "sid": "126562",
+            "showname": "Fantasmas 6ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794577442081.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794907596963.jpg"
         },
         {
-            "sid": "126475",
-            "showname": "Tip Toe 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794227521413.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274251476.jpg"
+            "sid": "126566",
+            "showname": "12 12 12 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794626761555.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794908450006.jpg"
         },
         {
-            "sid": "126438",
-            "showname": "Chicago P.D.: Distrito 21 14ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1793962890761.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794274289284.jpg"
+            "sid": "126682",
+            "showname": "The Chosen: Os Escolhidos 6ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1794843361621.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1794908513086.jpg"
         }
     ]
 }
